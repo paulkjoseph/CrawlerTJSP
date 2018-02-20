@@ -1,0 +1,24 @@
+{
+  "name": "austin_motorolla",
+  "version": "1.0.0",
+  "description": "Sistema para busca de casos motorolla Brasil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilhere Caruso",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-progress": "^1.0.5",
+    "cheerio": "^1.0.0-rc.2",
+    "pg": "^7.4.1",
+    "pg-hstore": "^2.3.2",
+    "puppeteer": "^1.0.0",
+    "request": "^2.83.0",
+    "sequelize": "^4.33.0"
+  },
+  "devDependencies": {
+    "axios": "^0.17.1",
+    "lodash": "^4.17.5"
+  }
+}
